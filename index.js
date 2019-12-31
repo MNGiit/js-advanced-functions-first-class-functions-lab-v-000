@@ -1,6 +1,16 @@
 // Code your solution in this file!
 // code is here???
+
+// anonymous function doesn't have a name so it's just function()
+// const returnFirstTwoDrivers = function(drivers) {
+  // return drivers.slice(0,2)
+// }
 const returnFirstTwoDrivers = function(drivers) { return drivers.slice(0,2) };
+
+
+// const returnLastTwoDrivers = function(drivers) {
+//  return drivers.slice(-2)
+// }
 
 const returnLastTwoDrivers = function(drivers) { return drivers.slice(-2) };
 
